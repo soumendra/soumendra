@@ -1,21 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Deep Learning/CNNs and Flutter Android apps
-- 📫 Reach me on twitter: @dataBiryani
 
+<img src="https://raw.githubusercontent.com/soumendra/soumendra/master/gh_banner_soumendra.png" alt="banner that says Soumendra Dhanee - software engineer, data scientist and writer, alongside a cartoon illustration of Soumendra">
+I am a software engineer with a strong interest in data science (deep learning, in particular). I enjoy working with JavaScript (React), Flutter and Python. I love Haskell, and if the plane carrying all the Haskell programmers were going down, I would want to be on it.
 
-
-
-<!--
-**soumendra/soumendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
--->
+I have taken quite a lot of machine learning and deep learning models to production in various domains while heading data science teams. I have designed curriculum for data science/deep learning programs/workshops for universities and one edtech startup.
