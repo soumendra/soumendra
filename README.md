@@ -10,6 +10,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=soumendra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumendra&style=flat-square" alt="soumendra" /> </p>
+
 
 
 
