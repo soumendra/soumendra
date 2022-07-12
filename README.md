@@ -16,23 +16,23 @@
 
 <div align="center">
     <a href="https://github.com/soumendra">
-        <img src="https://github.com/soumendra/soumendra/blob/master/icons/github.png" width="3%"/>
+        <img src="https://github.com/soumendra/soumendra/blob/main/icons/github.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://twitter.com/dataBiryani">
-        <img src="https://github.com/soumendra/soumendra/blob/master/icons/twitter.png" width="3%"/>
+        <img src="https://github.com/soumendra/soumendra/blob/main/icons/twitter.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://linkedin.com/in/soumendradhanee">
-        <img src="https://github.com/soumendra/soumendra/blob/master/icons/linkedin.png" width="3%"/>
+        <img src="https://github.com/soumendra/soumendra/blob/main/icons/linkedin.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://kaggle.com/soumendra">
-        <img src="https://github.com/soumendra/soumendra/blob/master/icons/kaggle.png" width="3%"/>
+        <img src="https://github.com/soumendra/soumendra/blob/main/icons/kaggle.png" width="3%"/>
     </a>
     <img width="3%" />
     <a href="https://medium.com/@soumendra">
-        <img src="https://github.com/soumendra/soumendra/blob/master/icons/medium.png" width="3%" />
+        <img src="https://github.com/soumendra/soumendra/blob/main/icons/medium.png" width="3%" />
     </a>
 </div>
 
