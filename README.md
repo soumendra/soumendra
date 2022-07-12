@@ -13,7 +13,7 @@
 
 <h1 align="center">Hi 👋, I'm Soumendra</h1>
 <h3 align="center">Chief scientist, deep learning @vjt.com</h3>
-
+<br />
 <div align="center">
     <a href="https://github.com/soumendra">
         <img src="https://github.com/soumendra/soumendra/blob/master/icons/github.png" width="3%"/>
