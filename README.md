@@ -15,6 +15,9 @@
 </a>
 -->
 
+<h1 align="center">Hi 👋, I'm Soumendra</h1>
+<h3 align="center">Chief scientist, deep learning @vjt.com</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumendra&style=flat-square" alt="soumendra" /> </p>
 
 
