@@ -7,19 +7,12 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![trophy](https://github-profile-trophy.vercel.app/?username=soumendra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=soumendra&count_private=true&show_icons=true" />
-</a>
 -->
-
-<h1 align="center">Hi 👋, I'm Soumendra</h1>
-<h3 align="center">Chief scientist, deep learning @vjt.com</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumendra&style=flat-square" alt="soumendra" /> </p>
 
+<h1 align="center">Hi 👋, I'm Soumendra</h1>
+<h3 align="center">Chief scientist, deep learning @vjt.com</h3>
 
 <div align="center">
     <a href="https://github.com/soumendra">
@@ -47,13 +40,14 @@
 <br/>
 
 <p align="center">
-<img width="50%" src=https://github-readme-stats.vercel.app/api?username=soumendra&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&hide_title=true />
+<img width="34%" src=https://github-readme-stats.vercel.app/api?username=soumendra&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&hide_title=true />
   
-<img width="42%" src="https://github-readme-streak-stats.herokuapp.com?user=soumendra&hide_border=true" />
+<img width="33%" src="https://github-readme-streak-stats.herokuapp.com?user=soumendra&hide_border=true" />
+<a width="33%" href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumendra" />
+</a>
 </p>
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumendra" />
-</a>
+
