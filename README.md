@@ -40,11 +40,11 @@
 <br/>
 
 <p align="center">
-<img width="34%" src=https://github-readme-stats.vercel.app/api?username=soumendra&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&hide_title=true />
+<img width="40%" src=https://github-readme-stats.vercel.app/api?username=soumendra&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&hide_title=true />
   
-<img width="33%" src="https://github-readme-streak-stats.herokuapp.com?user=soumendra&hide_border=true" />
-<a width="33%" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumendra" />
+<img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=soumendra&hide_border=true" />
+<a width="20%" href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumendra" />
 </a>
 </p>
 
