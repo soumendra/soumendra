@@ -51,11 +51,12 @@
 <h3>Writing</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Counting infinities](https://soumendra.io/blog/counting-infinities/)
+- [Tuning hyperparameters for random forests](https://soumendra.io/blog/tuning-random-forests-hyperparameters/)
 - [Techniques for building image classifiers &lpar;and backbones&rpar; that worked for us](https://blog.fnp.dev/techniques-for-building-image-classifiers-and-backbones-that-worked-for-us-f4218a88dc45?source=rss-de87db488c7------2)
 - [Dataframes and the proliferation of bad code in data science](https://soumendra.medium.com/dataframes-and-the-proliferation-of-bad-code-in-data-science-539b8aa1f87d?source=rss-de87db488c7------2)
 - [How to quickly get started playing AoE2 HD online in 2019 — a friendly guide](https://soumendra.medium.com/how-to-quickly-get-started-playing-aoe2-hd-online-in-2019-a-friendly-guide-7468cd126fbd?source=rss-de87db488c7------2)
 - [[Keras] A thing you should know about Keras if you plan to train a deep learning model on a large…](https://blog.fnp.dev/keras-a-thing-you-should-know-about-keras-if-you-plan-to-train-a-deep-learning-model-on-a-large-fdd63ce66bd2?source=rss-de87db488c7------2)
-- [Installing AOE II HD &lpar;via Steam&rpar; on Mac using playonmac](https://soumendra.medium.com/installing-aoe-ii-hd-via-steam-on-mac-using-playonmac-e02a6ed5d571?source=rss-de87db488c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
